@@ -43,7 +43,7 @@ This is a beta release of the project.
 
 The project license is the same as original [Swiss Ephemeris].
  
-[//]:
+[//]: #
 
 [Biodynamic]: <https://www.biodynamic.org.uk>
 [Swiss Ephemeris]: <https://www.astro.com/swisseph/swephinfo_e.htm>
