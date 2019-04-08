@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Biodynamic calendar with an animation of planet movement, based on the Swiss ephemeris (server-part)",
+  "main": "server.js",
+  "author": "IOUOMO",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "node-gyp": "^3.8.0",
+    "nodemon": "^1.14.10"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "swisseph": "^0.5.8"
+  }
+}
