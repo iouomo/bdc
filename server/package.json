@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Biodynamic calendar with an animation of planet movement, based on the Swiss ephemeris (server-part)",
+  "description": "Biodynamic calendar, based on the Swiss Ephemeris (server-part)",
   "main": "server.js",
   "author": "IOUOMO",
   "license": "MIT",
