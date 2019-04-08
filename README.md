@@ -1,7 +1,7 @@
 # Biodynamic calendar
 
 # About
-Biodynamic calendar, based on the Swiss Ephemeris with an animation of true geocentric motion of the Solar system planets.
+This is a Biodynamic calendar, based on the Swiss Ephemeris with an animation of true geocentric motion of the Solar system planets.
 
 See: [Biodynamic] and [Swiss Ephemeris] for more details.
 
