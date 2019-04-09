@@ -15,12 +15,13 @@ The calendar uses a number of open source projects:
 * [GSAP] - GreenSock Animation Platform (GSAP) is a suite of JavaScript tools for high-performance HTML5 animations that work in all major browsers.
 * [axios] - Promise based HTTP client for the browser and node.js
 * [node.js] - evented I/O for the backend
+* [swisseph] - Swiss Ephemeris binding for node.js.
 * [Express] - Fast, unopinionated, minimalist web framework for node.
 * [Yarn] - Fast, reliable, and secure dependency management.
 
 ### Installation
 
-The application requires [node.js](https://nodejs.org/) v8+ to run.
+The application requires [node.js] v8+ and [Yarn] to run.
 
 Install the dependencies and start the client and the server.
 
@@ -55,3 +56,4 @@ The project license is the same as original [Swiss Ephemeris].
 [node.js]: <http://nodejs.org>
 [express]: <http://expressjs.com>
 [Yarn]: <http://expressjs.com>
+[swisseph]: <https://github.com/mivion/swisseph>
